@@ -1,0 +1,32 @@
+git --local 
+
+git --system (a toda la compu)
+
+git --global (a todos los repositorios de la pc)
+
+git congif --global user.name "nombre" (set up username)
+
+git congif --global user.email "gmail" (set up email)
+
+git config --list (datos del usuario)
+
+git config --global color.ui true
+
+git config --global core.editor "code -wait" (set up visual studio as default)
+
+
+
+##
+cd - change directory
+cd .. go back
+ls  lista de carpetas
+ls -a ver archivos ocultos
+pwd ver ruta actual
+mkdir nombre    crear carpetas
+rmdir nombre    borrar carpeta
+
+touch ("nombre.archivo" para crear un archivo. "hola.txt")
+rm archivonombre (remove archivo.)
+
+nano nombrearchivo (abrir en terminal) 
+crl + o 
