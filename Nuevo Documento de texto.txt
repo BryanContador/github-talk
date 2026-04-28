@@ -14,7 +14,8 @@ git config --global color.ui true
 
 git config --global core.editor "code -wait" (set up visual studio as default)
 
-git log (el historial del repo)
+git log (el historial del repo)         git log --oneline (en una linea)
+
 
 
 ##
@@ -31,3 +32,9 @@ rm archivonombre (remove archivo.)
 
 nano nombrearchivo (abrir en terminal) 
 crl + o 
+
+
+
+
+
+git branch   (ver ramas)
