@@ -16,3 +16,7 @@ def sumar(*numeros):
 print(sumar(1, 2))  # Salida: 3
 print(sumar(1, 2, 3))  # Salida: 6
 print(sumar(1, 2, 3, 4))  # Salida: 10  
+
+
+print(saludar("Alice"))  # Salida: Hola, Alice!
+print(saludar("Bob"))    # Salida: Hola, Bob!
