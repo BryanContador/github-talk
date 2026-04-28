@@ -42,3 +42,9 @@ git branch nombre-rama (crear rama nueva)
 git branch -d nombre-rama (delete la rama)
 git switch -c nombre-rama (crear una rama y pasarse a ella)
 git merge nombre-rama (estando dentro de la rama que se quiere jalar los cambios, se da el nombre de la rama donde están los cambios)
+
+
+
+en .gitignore
+el asterisco * seguido de la extensión (ej. *.jpg   *.txt) ignora todos los archivos con esa extensión
+y si se pone el nombre completo no aparece. (ignora.py) dentro del .gitignore
