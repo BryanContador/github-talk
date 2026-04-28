@@ -48,3 +48,4 @@ git merge nombre-rama (estando dentro de la rama que se quiere jalar los cambios
 en .gitignore
 el asterisco * seguido de la extensión (ej. *.jpg   *.txt) ignora todos los archivos con esa extensión
 y si se pone el nombre completo no aparece. (ignora.py) dentro del .gitignore
+si se usa "!" es para que NO  lo ignore (!no_ignorar.jpg)
