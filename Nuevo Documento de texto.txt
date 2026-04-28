@@ -38,3 +38,5 @@ crl + o
 
 
 git branch   (ver ramas)
+git branch nombre-rama (crear rama nueva)
+git branch -d nombre-rama (delete la rama)
