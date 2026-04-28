@@ -40,3 +40,4 @@ crl + o
 git branch   (ver ramas)
 git branch nombre-rama (crear rama nueva)
 git branch -d nombre-rama (delete la rama)
+git switch -c nombre-rama (crear una rama y cambiarse a ella)
